@@ -10,10 +10,10 @@ if (a>=65){
 //задача 2
 
 let b=parseInt(prompt('введите первое число'));
-let c=parseInt(prompt('введите второе число'));
-if (b>c){
+let k=parseInt(prompt('введите второе число'));
+if (b>k){
     console.log('Первое число больше');
-} else if (b<c){
+} else if (b<k){
     console.log('Второе число больше');
 } else {
     console.log('Числа равны');
