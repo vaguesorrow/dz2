@@ -10,7 +10,7 @@ if (a>=65){
 //задача 2
 
 let b=parseInt(prompt('введите первое число'));
-let с=parseInt(prompt('введите второе число'));
+let c=parseInt(prompt('введите второе число'));
 if (b>c){
     console.log('Первое число больше');
 } else if (b<c){
